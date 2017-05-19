@@ -1,0 +1,19 @@
+{
+	"name":         "db-monitor-cli",
+	"description":  "Command line tool to fetch departures at DB stations.",
+	"version":      "0.1.0",
+	"bin":          {"db-monitor": "bin.js"},
+	"files":        ["bin.js"],
+	"keywords":     ["deutsche bahn", "departures", "public transport"],
+	"author":       "Jannis R <mail@jannisr.de>",
+	"homepage":     "https://github.com/derhuerst/db-monitor-cli",
+	"repository":   "derhuerst/db-monitor-cli",
+	"bugs":         "https://github.com/derhuerst/db-monitor-cli/issues",
+	"license":      "ISC",
+	"engines":      {"node": ">=6"},
+	"dependencies": {
+	},
+	"scripts": {
+		"test": "echo todo; exit 1"
+	}
+}
