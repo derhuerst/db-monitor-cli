@@ -12,6 +12,9 @@
 	"license":      "ISC",
 	"engines":      {"node": ">=6"},
 	"dependencies": {
+		"db-monitor": "^0.1.0",
+		"minimist": "^1.2.0",
+		"ndjson": "^1.5.0"
 	},
 	"scripts": {
 		"test": "echo todo; exit 1"
